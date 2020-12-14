@@ -1,0 +1,40 @@
+body {
+  background-image: url("https://greatbritishmag.co.uk/wp-content/uploads/2017/01/UK-flag-Union-Jack-featured.jpg");
+  padding: 10px 0 0 10px;
+}
+h1 {
+  font-size: 50px;
+  color: white;
+  padding-bottom: 60px;
+}
+p {
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+}
+a {
+  text-decoration: none;
+}
+.wrapper1 {
+  background-color: rgba(8, 84, 156, 0.25);
+  padding: 0 5px;
+}
+.answers {
+  max-width: 1200px;
+  display: grid;
+  grid-gap: 6px;
+}
+.answer {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.answer a {
+  color: rgb(228, 250, 255);
+}
+.answer a:hover {
+  color: rgb(7, 39, 90);
+}
+.gif {
+  position: center;
+}
